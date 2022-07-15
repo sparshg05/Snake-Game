@@ -98,7 +98,6 @@ function gameEngine(){
 
 
 
-
 //Main logic starts here
 let hiscore= localStorage.getItem("hiscore");                  //Getting the value from local storage
 if(hiscore===null){
